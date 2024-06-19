@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OmbZMUb/c7U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sreev\\source\\repos\\GoogleFromApp\\GoogleFromApp\\GoogleFromApp.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sreev\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
